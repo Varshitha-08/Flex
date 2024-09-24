@@ -1,0 +1,57 @@
+.main{
+    background-color: white; 
+    display: flex ;
+}
+a{
+    color: black;
+    text-decoration: none;
+     padding: 20px;
+}
+.five input{
+    border: none;
+    padding: 0px;
+    padding: 10px;
+}
+.five{
+    border: 2px solid black;
+    padding: 5px 5px 0px 5px;
+    margin-bottom: 5px;
+    border-radius: 30px;
+}
+.right{
+    position: absolute;
+    left: 1050px;
+}
+span{
+    padding: 8px;
+}
+.six{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+i{
+    padding: 7px;
+}
+.pav{
+    display: flex;
+}
+  
+button{
+    /* display: flex; */
+    border-radius: 30px;
+    padding: 17px;
+    justify-items: end;
+}
+.but{
+    border: none;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.748);
+    color: white;
+    padding: 3px;
+    display: flex;
+}
+section{
+    padding: 10px 13px;
+}
+
